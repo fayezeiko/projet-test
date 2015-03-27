@@ -1,0 +1,79 @@
+body { 
+    background-image: url(tour-eiffel-1262869148-1106322.jpg); 
+    
+}
+    
+
+main { font-style: italic;
+    color : ;
+    font-size: 50px;
+   font-family: sans-serif;
+    list-style: square;
+    text-align: center;
+
+    }
+
+header li
+{
+    display :inline-block;
+    font-weight : 15px;
+        width: 20%;
+    margin-left: 50px;
+    text-align: center;
+border-style:dashed;
+    background-color: pink;
+    border-color: purple;
+    color: purple;
+}
+    
+header 
+{ text-decoration: none;
+    color: purple;
+}
+
+header ul {
+    text-align:center;
+    font-size: 30px;
+}
+
+header title { color: purple;
+    font-style: normal;
+    font-size: 15px;
+    font-family: serif;
+    font-stretch: ultra-condensed;
+}
+
+h5 {color: pink;
+    font-size: 80px;
+}
+
+h6 { color: purple;
+    font-style: normal;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-stretch: bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+h7  { color: purple;
+    font-style: normal;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-stretch:bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+h8 { color: purple;
+    font-style: normal;
+    font-size: 60px;
+    font-family:sans-serif;
+    font-stretch:bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+ strong { text-decoration : underline;
+     font-stretch: bold;
+ }
+
+p { color: black;
